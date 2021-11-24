@@ -33,7 +33,7 @@ Algoritmo #1 - Multiplicacion de dos entereos por el metodo de "La Russe"
   if(n == 0):             #O(1)
     return a              #O(1)
   else:                   #O(1)
-    for i in range(1,n):  #O(1)
+    for i in range(1,n):  #O(n)
       c = a + b           #O(1)
       a = b               #O(1)
       b = c               #O(1)
