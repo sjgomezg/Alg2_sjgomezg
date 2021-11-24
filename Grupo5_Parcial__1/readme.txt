@@ -9,7 +9,7 @@ Integrantes:
 Algoritmo #1 - Multiplicacion de dos entereos por el metodo de "La Russe"
   
   En el sisguiete segmento de codigo se evidencia funcion con la cual se calcula el producto de los dos enteros. 
-  Se utiliza el desplazamiento de bits para la multiplicacion y divicion por 2 correspondientes.
+  Se utiliza el desplazamiento de bits para la multiplicacion y division por 2 correspondientes.
   Frente a cada linea se especifica la complejidad de la operacion y al final el resultado.
   
   def productTwoIntegers(a, b): #Definimos la funciona que calculara el producto de dos enteros
