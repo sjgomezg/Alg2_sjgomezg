@@ -14,7 +14,7 @@ Algoritmo #1 - Multiplicacion de dos entereos por el metodo de "La Russe"
   
   def productTwoIntegers(a, b): #Definimos la funciona que calculara el producto de dos enteros
   result = 0                        #O(1)
-  while(b > 0):                     #O(log(n))
+  while(b > 0):                     #O(log(b))
     if(b & 1): result = result + a  #O(1)
     a = a << 1                      #O(1)
     b = b >> 1                      #O(1)
