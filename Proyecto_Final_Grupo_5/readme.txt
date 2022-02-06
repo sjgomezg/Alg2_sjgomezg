@@ -45,8 +45,8 @@ FinalOwnImplemetation.ipynb
         return parents, visited                                           # O(1)
         
         Esta función busca la ruta con menor peso (distancia o tiempo) entre dos nodos. 
-        La complejidad de esta función es O(n) + O(m) * O(k) =  O(n+n*k), donde n es el número de ciudades, m los vértices que se escogen como mejor ruta y k los vértices
-        adyacentes a un vértice m.
+        La complejidad de esta función es O(n) + O(m) * O(k) =  O(n+m*k), donde n es el número de ciudades, m los vértices que pueden ser la ruta con menor peso y k los vértices
+        adyacentes a un vértice m que son las posibles rutas a seguir.
         
         tenemos las funciones distance() y time(), que se encargan de cargar los datos de las matrices, y ambos tienen una complejidad de O(n^2).
 
