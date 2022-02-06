@@ -1,0 +1,211 @@
+"Origen","Destino","Distancia","Tiempo"
+"Bogota","Cali",463,387
+"Bogota","Medellin",419,345
+"Bogota","Barranquilla",1009,724
+"Bogota","Cartagena",1052,814
+"Bogota","Cucuta",599,438
+"Bogota","Bucaramanga",409,305
+"Bogota","Pereira",322,282
+"Bogota","Santa Marta",968,690
+"Bogota","Ibague",193,159
+"Bogota","Pasto",764,662
+"Bogota","Manizales",317,258
+"Bogota","Neiva",301,229
+"Bogota","Villavicencio",110,88
+"Bogota","Armenia",275,248
+"Cali","Bogota",461,387
+"Cali","Medellin",440,343
+"Cali","Barranquilla",1144,863
+"Cali","Cartagena",1098,834
+"Cali","Cucuta",984,745
+"Cali","Bucaramanga",785,610
+"Cali","Pereira",215,159
+"Cali","Santa Marta",1231,907
+"Cali","Ibague",274,234
+"Cali","Pasto",393,426
+"Cali","Manizales",268,200
+"Cali","Neiva",382,385
+"Cali","Villavicencio",558,461
+"Cali","Armenia",187,142
+"Medellin","Bogota",419,343
+"Medellin","Cali",439,345
+"Medellin","Barranquilla",704,521
+"Medellin","Cartagena",659,492
+"Medellin","Cucuta",592,473
+"Medellin","Bucaramanga",392,338
+"Medellin","Pereira",224,189
+"Medellin","Santa Marta",795,586
+"Medellin","Ibague",361,319
+"Medellin","Pasto",816,758
+"Medellin","Manizales",209,177
+"Medellin","Neiva",590,470
+"Medellin","Villavicencio",529,431
+"Medellin","Armenia",280,229
+"Barranquilla","Bogota",1006,722
+"Barranquilla","Cali",1139,855
+"Barranquilla","Medellin",702,512
+"Barranquilla","Cartagena",122,113
+"Barranquilla","Cucuta",669,531
+"Barranquilla","Bucaramanga",642,475
+"Barranquilla","Pereira",924,700
+"Barranquilla","Santa Marta",102,75
+"Barranquilla","Ibague",991,713
+"Barranquilla","Pasto",1517,1269
+"Barranquilla","Manizales",910,688
+"Barranquilla","Neiva",1178,849
+"Barranquilla","Villavicencio",1117,810
+"Barranquilla","Armenia",980,740
+"Cartagena","Bogota",1078,823
+"Cartagena","Cali",1094,833
+"Cartagena","Medellin",656,490
+"Cartagena","Barranquilla",124,110
+"Cartagena","Cucuta",740,631
+"Cartagena","Bucaramanga",713,576
+"Cartagena","Pereira",879,677
+"Cartagena","Santa Marta",225,184
+"Cartagena","Ibague",1015,807
+"Cartagena","Pasto",1471,1246
+"Cartagena","Manizales",864,665
+"Cartagena","Neiva",1249,950
+"Cartagena","Villavicencio",1188,911
+"Cartagena","Armenia",934,717
+"Cucuta","Bogota",596,434
+"Cucuta","Cali",982,746
+"Cucuta","Medellin",590,463
+"Cucuta","Barranquilla",669,531
+"Cucuta","Cartagena",741,623
+"Cucuta","Bucaramanga",200,137
+"Cucuta","Pereira",767,590
+"Cucuta","Santa Marta",628,497
+"Cucuta","Ibague",705,517
+"Cucuta","Pasto",1354,1087
+"Cucuta","Manizales",718,548
+"Cucuta","Neiva",891,654
+"Cucuta","Villavicencio",706,522
+"Cucuta","Armenia",789,611
+"Bucaramanga","Bogota",407,301
+"Bucaramanga","Cali",783,612
+"Bucaramanga","Medellin",391,330
+"Bucaramanga","Barranquilla",643,476
+"Bucaramanga","Cartagena",715,569
+"Bucaramanga","Cucuta",201,138
+"Bucaramanga","Pereira",568,456
+"Bucaramanga","Santa Marta",602,442
+"Bucaramanga","Ibague",506,384
+"Bucaramanga","Pasto",1155,953
+"Bucaramanga","Manizales",519,414
+"Bucaramanga","Neiva",692,520
+"Bucaramanga","Villavicencio",517,389
+"Bucaramanga","Armenia",590,477
+"Pereira","Bogota",321,284
+"Pereira","Cali",216,160
+"Pereira","Medellin",226,189
+"Pereira","Barranquilla",930,710
+"Pereira","Cartagena",884,680
+"Pereira","Cucuta",770,592
+"Pereira","Bucaramanga",570,457
+"Pereira","Santa Marta",1017,753
+"Pereira","Ibague",134,131
+"Pereira","Pasto",593,573
+"Pereira","Manizales",54,47
+"Pereira","Neiva",336,283
+"Pereira","Villavicencio",418,358
+"Pereira","Armenia",53,42
+"Santa Marta","Bogota",966,688
+"Santa Marta","Cali",1229,907
+"Santa Marta","Medellin",793,577
+"Santa Marta","Barranquilla",101,74
+"Santa Marta","Cartagena",223,186
+"Santa Marta","Cucuta",629,496
+"Santa Marta","Bucaramanga",602,441
+"Santa Marta","Pereira",1014,751
+"Santa Marta","Ibague",951,678
+"Santa Marta","Pasto",1600,1248
+"Santa Marta","Manizales",964,709
+"Santa Marta","Neiva",1138,815
+"Santa Marta","Villavicencio",1077,776
+"Santa Marta","Armenia",1035,772
+"Ibague","Bogota",192,160
+"Ibague","Cali",275,235
+"Ibague","Medellin",362,318
+"Ibague","Barranquilla",992,713
+"Ibague","Cartagena",1035,803
+"Ibague","Cucuta",705,517
+"Ibague","Bucaramanga",505,382
+"Ibague","Pereira",133,130
+"Ibague","Santa Marta",951,679
+"Ibague","Pasto",669,591
+"Ibague","Manizales",190,175
+"Ibague","Neiva",206,158
+"Ibague","Villavicencio",288,233
+"Ibague","Armenia",86,96
+"Pasto","Bogota",762,662
+"Pasto","Cali",391,425
+"Pasto","Medellin",817,757
+"Pasto","Barranquilla",1520,1277
+"Pasto","Cartagena",1475,1248
+"Pasto","Cucuta",1353,1086
+"Pasto","Bucaramanga",1154,951
+"Pasto","Pereira",592,572
+"Pasto","Santa Marta",1600,1247
+"Pasto","Ibague",670,591
+"Pasto","Manizales",644,614
+"Pasto","Neiva",464,431
+"Pasto","Villavicencio",859,735
+"Pasto","Armenia",564,556
+"Manizales","Bogota",314,257
+"Manizales","Cali",267,202
+"Manizales","Medellin",209,177
+"Manizales","Barranquilla",912,697
+"Manizales","Cartagena",867,668
+"Manizales","Cucuta",718,549
+"Manizales","Bucaramanga",518,414
+"Manizales","Pereira",52,46
+"Manizales","Santa Marta",964,710
+"Manizales","Ibague",188,175
+"Manizales","Pasto",644,615
+"Manizales","Neiva",391,327
+"Manizales","Villavicencio",424,345
+"Manizales","Armenia",108,86
+"Neiva","Bogota",300,233
+"Neiva","Cali",381,385
+"Neiva","Medellin",565,473
+"Neiva","Barranquilla",1179,852
+"Neiva","Cartagena",1221,942
+"Neiva","Cucuta",891,656
+"Neiva","Bucaramanga",691,521
+"Neiva","Pereira",336,285
+"Neiva","Santa Marta",1138,818
+"Neiva","Ibague",207,162
+"Neiva","Pasto",465,435
+"Neiva","Manizales",393,330
+"Neiva","Villavicencio",397,306
+"Neiva","Armenia",289,251
+"Villavicencio","Bogota",108,87
+"Villavicencio","Cali",559,461
+"Villavicencio","Medellin",527,431
+"Villavicencio","Barranquilla",1117,809
+"Villavicencio","Cartagena",1160,900
+"Villavicencio","Cucuta",707,524
+"Villavicencio","Bucaramanga",517,390
+"Villavicencio","Pereira",418,356
+"Villavicencio","Santa Marta",1076,775
+"Villavicencio","Ibague",289,233
+"Villavicencio","Pasto",860,736
+"Villavicencio","Manizales",424,344
+"Villavicencio","Neiva",397,303
+"Villavicencio","Armenia",370,322
+"Armenia","Bogota",274,250
+"Armenia","Cali",188,144
+"Armenia","Medellin",282,229
+"Armenia","Barranquilla",985,750
+"Armenia","Cartagena",940,720
+"Armenia","Cucuta",789,610
+"Armenia","Bucaramanga",590,475
+"Armenia","Pereira",53,42
+"Armenia","Santa Marta",1036,771
+"Armenia","Ibague",87,96
+"Armenia","Pasto",565,557
+"Armenia","Manizales",110,87
+"Armenia","Neiva",289,248
+"Armenia","Villavicencio",371,323
